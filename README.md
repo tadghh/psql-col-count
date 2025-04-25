@@ -12,4 +12,5 @@ VALUES
     ('Jane Smith'),
     ('Alex Johnson'),
     ('Sarah Williams');
+SELECT version();
 ```
